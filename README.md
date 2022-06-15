@@ -1,4 +1,4 @@
-# NichirinSword (MuStickC + UIFLOW) 
+# NichirinSword (M5StickC + UIFLOW) 
 
 鬼滅の刃の日輪刀を、ダイソーで売っている200円の忍者刀を改造して作成しました。  
 M5StickCとUIFLowを使用しています。  
